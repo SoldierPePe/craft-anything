@@ -1568,6 +1568,10 @@ Gaps found while using the app for real projects.
 - [ ] A config.toml that can't be read for a moment at startup (a virus scan or another program
       holding it) isn't tried again, so the whole session runs on defaults and refuses every save:
       try the read again for a short while before giving up
+- [ ] An Arabic UI that reads right to left: a full `ar` catalog, Arabic sentences in their right
+      word order (egui 0.36 shapes each word but lays words out left to right), and the window
+      mirrored (sidebar on the right, rows from the right)
+      — claimed: SoldierPePe, branch feature/r2.9-arabic-rtl
 
 ### R2.10 Pinned builds
 Owner: maintainers · Status: in progress
