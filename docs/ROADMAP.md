@@ -1042,6 +1042,10 @@ Gaps found while using the app for real projects.
       default fonts: without craft-fonts they show as boxes, and with it each such letter comes from
       Noto Sans CJK while the rest of the word is DM Sans. Bundle a DM Sans build that has the
       Vietnamese set (with its OFL notice) so Tiếng Việt renders in one face
+- [ ] An Arabic UI that reads right to left: a full `ar` catalog, Arabic sentences in their right
+      word order (egui 0.36 shapes each word but lays words out left to right), and the window
+      mirrored (sidebar on the right, rows from the right)
+      — claimed: SoldierPePe, branch feature/r2.9-arabic-rtl
 
 ### R2.10 Pinned builds
 Owner: maintainers · Status: in progress
