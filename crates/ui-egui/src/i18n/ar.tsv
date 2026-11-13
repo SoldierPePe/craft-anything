@@ -1467,3 +1467,24 @@ Connecting to {name}… {seconds} s	جارٍ الاتصال بـ {name}… {seco
 Stopped adding {name}.	أُوقفت إضافة {name}.
 It isn't there any more, so {program} runs in its place.	لم يعد موجودًا، لذا يعمل {program} مكانه.
 Use it	استخدامه
+
+# Native update checks and verified installation.
+ArtCraft Launcher manages this app's version. Change its version there.	يدير ArtCraft Launcher إصدار هذا التطبيق. غيّر إصداره من هناك.
+Check again	التحقق مرة أخرى
+Check for Updates	التحقق من وجود تحديثات
+Check for Updates…	التحقق من وجود تحديثات…
+Checking for updates…	جارٍ التحقق من وجود تحديثات…
+Couldn't check for updates: {error}	تعذّر التحقق من وجود تحديثات: {error}
+Downloading and verifying the update…	جارٍ تنزيل التحديث والتحقق منه…
+No installer is available for this platform.	لا يتوفر برنامج تثبيت لهذا النظام.
+Releases	الإصدارات
+Save your work and stop running tasks before installing an update.	احفظ عملك وأوقف المهام الجارية قبل تثبيت التحديث.
+The update failed: {error}	فشل التحديث: {error}
+The update worker stopped unexpectedly. Try checking again.	توقفت عملية التحديث على نحو غير متوقع. حاول التحقق مرة أخرى.
+This installation is managed externally. Update it with its package manager or open Releases.	تُدار هذه النسخة المثبّتة من خارج التطبيق. حدّثها عبر مدير الحزم أو افتح الإصدارات.
+Update and restart	التحديث وإعادة التشغيل
+Update ready. Restarting…	التحديث جاهز. جارٍ إعادة التشغيل…
+Updated to {version}.	تم التحديث إلى {version}.
+Use Releases or your package manager to update this installation.	استخدم الإصدارات أو مدير الحزم لتحديث هذه النسخة المثبّتة.
+You're up to date.	لديك أحدث إصدار.
+{version} is available.	يتوفر الإصدار {version}.
